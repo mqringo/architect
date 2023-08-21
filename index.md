@@ -4,16 +4,6 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[**About Me**](./About.html)
-
-[_Development_](./Development.html)
-
-[_Operation_](./Operation.html)
-
-[_Security_](./Security.html)
-
-[_DevSecOps_](./DevSecOps.html)
-
 
 [Link to another page](./another-page.html).
 
