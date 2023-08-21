@@ -6,22 +6,26 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [**About Me**](./About.html)
 
+[_Development_](./Development.html)
+
+[_Operation_](./Operation.html)
+
+[_Security_](./Security.html)
 
 [_DevSecOps_](./DevSecOps.html)
 
-[_Engineering_](./Engineering.html)
 
 [Link to another page](./another-page.html).
 
 
 [**About Me**](./About.html)
 
-| [**About Me**](./About.html)     | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)         | three |
-|:-------------|:------------------|:------|
-|            | [_DevSecOps_](./DevSecOps.html) | nice  |
-|            | [_Engineering_](./Engineering.html)  | nice  |
-|            | good `oreos`      | hmm   |
-|            | good `zoute` drop | yumm  |
+| [**About Me**](./About.html)     | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)         |
+|:-------------|:------------------|
+|            | [_Development_](./Development.html) |
+|            | [_Operation_](./Operation.html)  |
+|            | [_Security_](./Security.html) |
+|            | [_DevSecOps_](./DevSecOps.html) |
 
 
 There should be whitespace between paragraphs.
