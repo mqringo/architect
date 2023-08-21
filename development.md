@@ -4,6 +4,14 @@ layout: default
 
 ## Development
 
-This is related to Development
+Manifesto for Agile Software Development 
+
+▶Individualsandinteractionsoverprocessesandtools
+
+▶Workingsoftwareovercomprehensivedocumentation
+
+▶Customercollaborationovercontractnegotiation
+
+▶Respondingtochangeoverfollowingaplan 
 
 [back](./)
