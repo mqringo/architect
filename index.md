@@ -12,9 +12,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 | [**About Me**](./About.html)     | ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)         |
 |:-------------|:------------------|
-|            | [_Development_](./Development.html) |
+|            | [_Development_](./development.html) |
 |            | [_The Three Way_](./the-three-way.html)  |
-|            | [_Security_](./Security.html) |
+|            | [_Security_](./security.html) |
 |            | [_DevSecOps_](./DevSecOps.html) |
 
 
