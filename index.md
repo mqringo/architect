@@ -8,6 +8,6 @@ layout: default
 || [_Development_](./development.html) |
 ||[_The Three Way_](./the-three-way.html)  |
 || [_Software Architecture Good Practices_](./software-architectue.html) |
-|| [_DevSecOps_](./DevSecOps.html) |
+|| [_DevSecOps Myths_](./DevSecOps.html) |
 
 
