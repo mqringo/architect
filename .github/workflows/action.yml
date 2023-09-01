@@ -5,7 +5,10 @@ jobs:
     Run-GitHub-Actions:
         runs-on: ubuntu-latest
     steps:
-        -name: list files
+        -name: List Files
         run: |
             pwd
-            ls
+            ls -a
+        -name: Checkout
+         uses: actions/checkout@v2
+            
