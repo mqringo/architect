@@ -1,5 +1,6 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+title: Welcome to my DevSecOps course Blog
+description: This GitHub website is used to demonstrate the applicaiton of Jekyll and GitHub Pages. 
 show_downloads: true
 google_analytics:
+about: Ringo
 theme: jekyll-theme-architect
